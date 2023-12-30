@@ -114,6 +114,7 @@ h1, h2 {
 .header__logo {
     width: 97px;
     height: 26px;
+    margin-bottom: 5px;
 }
 
 .header__action {
@@ -287,7 +288,6 @@ h1, h2 {
 
     .header__action {
         font-size: 18px;
-        letter-spacing: -0.18px;
     }
 
     .hero {
@@ -523,7 +523,7 @@ h1, h2 {
 
     .founder-pitch {
         position: relative;
-        padding: 48px 56px 56px 56px;
+        padding: 48px 56px 56px;
         flex: 0 1 514px;
         height: 375px;
     }
