@@ -20,9 +20,11 @@ skills by building realistic workit-landing-pages.
 
 ### Screenshot
 
+![Workit-Landing-Page](https://github.com/EONRaider/Workit-Landing-Page/assets/15611424/0ce94bc5-d021-4590-95d2-0f5106c7de49)
+
 ### Links
 
-- [My Solution on Frontend Mentor]()
+- [My Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-html5css3-workit-landing-page-Ya8PWzjSfd)
 - [Check the Live Site](https://eonraider-workit-landing-page.netlify.app/)
 
 ## My process
@@ -40,5 +42,3 @@ skills by building realistic workit-landing-pages.
 
 - Semantic HTML5 markup
 - Cube CSS methodology
-
-### What I learned
